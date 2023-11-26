@@ -1,0 +1,51 @@
+
+{
+    "cuentos": [
+      {
+        "categoria": "Aventura",
+        "tipos": ["Inicio", "Desarrollo", "Clímax", "Cierre"],
+        "cuentos": [
+          {
+            "secciones": {
+              "Inicio": ["En un reino lejano, un héroe se embarca en un viaje épico..."],
+              "Desarrollo": ["Enfrenta desafíos inesperados y encuentra aliados invaluables..."],
+              "Clímax": ["Descubre un antiguo secreto que cambiará su destino..."],
+              "Cierre": ["Se enfrenta a un enemigo formidable en la batalla final...", "Regresa a casa como un héroe, pero el viaje nunca termina..."]
+            }
+          },
+          {
+            "secciones": {
+              "Inicio": ["En tierras desconocidas, un aventurero comienza su búsqueda..."],
+              "Desarrollo": ["Se encuentra con criaturas mágicas y desafíos imprevistos..."],
+              "Clímax": ["Descubre un artefacto antiguo que podría cambiar el curso de la historia..."],
+              "Cierre": ["Se despide de sus nuevos amigos y continúa hacia el horizonte..."]
+            }
+          }
+        ]
+      },
+      {
+        "categoria": "Fantasía",
+        "tipos": ["Inicio", "Desarrollo", "Clímax", "Cierre"],
+        "cuentos": [
+          {
+            "secciones": {
+              "Inicio": ["En el misterioso bosque encantado, donde los árboles susurran secretos..."],
+              "Desarrollo": ["Un portal mágico se abre, revelando un mundo de maravillas..."],
+              "Clímax": ["Criaturas mágicas se convierten en aliados inesperados..."],
+              "Cierre": ["Confrontación con la oscuridad que amenaza con destruir la magia...", "La paz se restaura y la magia perdura en el bosque encantado..."]
+            }
+          },
+          {
+            "secciones": {
+              "Inicio": ["En un reino de dragones y hechicería, una princesa comienza su viaje..."],
+              "Desarrollo": ["Se encuentra con seres mitológicos y descubre su destino épico..."],
+              "Clímax": ["Una batalla feroz contra las fuerzas del mal desata el poder interior de la princesa..."],
+              "Cierre": ["La princesa asume su papel como líder y guía a su reino hacia la prosperidad..."]
+            }
+          }
+        ]
+      }
+     
+    ]
+  }
+  
